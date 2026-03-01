@@ -1,5 +1,5 @@
 README.md
-# AI-Powered Communication Analyzer (CCM)
+# AI-Powered Communication Analyzer (Comm)
  
 ## Overview
 A production-grade GenAI application that processes  customer communications
